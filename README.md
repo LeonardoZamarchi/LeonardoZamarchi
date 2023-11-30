@@ -1,7 +1,10 @@
 ### Hi there I'm Leonardo Zamarchi. Welcome!
-<div >
+<div>
   <a href="https://beacons.ai/leonardozamarchi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoZamarchi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+    <a href="https://beacons.ai/leonardozamarchi">
+<div>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
